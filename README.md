@@ -34,7 +34,7 @@ Normalization
 
 Train / validation / test split
 
-Data augmentation (if applicable)
+Data augmentation 
 
 🏗️ Models Implemented
 1️⃣ Custom CNN Models (3)
